@@ -33,6 +33,11 @@ button {
   border: 0;
 }
 
+.js-greetings {
+  text-align: center;
+  font-size: 30px;
+  color: white;
+}
 .js-toDoForm,
 .js-toDoList {
   text-align: center;
